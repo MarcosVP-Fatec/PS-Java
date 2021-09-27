@@ -18,6 +18,7 @@ import static org.junit.Assert.assertNotNull;
 import static org.junit.Assert.fail;
 
 @RunWith(JUnit4.class)
+@SuppressWarnings("unchecked")
 public class ProductDaoExampleTest {
 
     @Rule
